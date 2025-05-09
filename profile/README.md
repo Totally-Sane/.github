@@ -1,6 +1,9 @@
 # Totally-sane Studios
 *Testing edge cases in both software and health - one overcomplicated project at a time 😆*
 
+## Purely Optional Support 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E71EQLRP) 
+
 ---
 
 ## 🌟 About Us
@@ -32,3 +35,4 @@ Meet the dedicated members driving this initiative. Connect with us and explore 
 ## 🌱 How to Follow Our Progress
 - ⭐ Star our key repositories to stay updated!
 - 👀 Check out our [Project Board](https://github.com/orgs/Totally-Sane/projects/3) to see what we're working on.
+- If you like what we do and wish to support us we will be deeply grateful but please don't feel pressure to. 
