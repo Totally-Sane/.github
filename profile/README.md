@@ -1,4 +1,4 @@
-# Totally-sane Studios
+# Totallysane Studios
 *Testing edge cases in both software and health - one overcomplicated project at a time 😆*
 
 ## Purely Optional Support 
